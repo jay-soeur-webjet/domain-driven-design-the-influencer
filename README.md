@@ -17,7 +17,7 @@ It's important to note that DDD extends its influence beyond microservices. Imag
 The enduring impact of Domain Driven Design on methodologies and practices cannot be overstated. It acts as a guiding light, fostering effective communication, collaboration, and organisation. By establishing a ubiquitous language, aligning teams around value streams, and providing implementation patterns like microservices, DDD has transformed the software development landscape, creating systems that are scalable, maintainable, and adaptable.
 
 
-![alt text](https://github.com/jay-soeur-webjet/domain-driven-design-the-influencer/main/ddd-bbd-devOps.png?raw=true)
+![](https://github.com/jay-soeur-webjet/domain-driven-design-the-influencer/blob/main/ddd-bbd-devOps.png?raw=true | width=100)
 
 
 In summary, Behavior Driven Development (BDD) enhances communication by focusing on expressing the behavior and requirements of software systems through shared scenarios. DevOps, on the other hand, revolutionizes software development and operations by promoting collaboration, automation, and shared responsibility. Domain Driven Design (DDD) serves as the foundation for these methodologies and practices, establishing a ubiquitous language to facilitate effective communication within bounded contexts. With DDD, teams can align around value streams and leverage implementation patterns like microservices to build scalable and maintainable systems.
