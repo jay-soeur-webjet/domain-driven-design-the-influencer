@@ -23,3 +23,10 @@ The enduring impact of Domain Driven Design on methodologies and practices canno
 In summary, Behavior Driven Development (BDD) enhances communication by focusing on expressing the behavior and requirements of software systems through shared scenarios. DevOps, on the other hand, revolutionizes software development and operations by promoting collaboration, automation, and shared responsibility. Domain Driven Design (DDD) serves as the foundation for these methodologies and practices, establishing a ubiquitous language to facilitate effective communication within bounded contexts. With DDD, teams can align around value streams and leverage implementation patterns like microservices to build scalable and maintainable systems.
 
 The combined power of BDD, DevOps, and DDD creates a holistic approach to software development. It enables teams to communicate clearly, collaborate effectively, and deliver high-quality software that aligns with business goals. By embracing these methodologies and practices, organisations can achieve faster development cycles, improved team dynamics, and software systems that meet the evolving needs of the users.
+
+
+Refer:
+https://www.bmc.com/blogs/devops-team-structure/
+https://dannorth.net/introducing-bdd/
+https://en.wikipedia.org/wiki/Behavior-driven_development
+Eric Evans - Domain Driven Design (https://www.amazon.com.au/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
