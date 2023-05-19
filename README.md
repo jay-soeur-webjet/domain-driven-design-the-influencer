@@ -26,7 +26,11 @@ The combined power of BDD, DevOps, and DDD creates a holistic approach to softwa
 
 
 Refer:
+
 https://www.bmc.com/blogs/devops-team-structure/
+
 https://dannorth.net/introducing-bdd/
+
 https://en.wikipedia.org/wiki/Behavior-driven_development
+
 Eric Evans - Domain Driven Design (https://www.amazon.com.au/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
