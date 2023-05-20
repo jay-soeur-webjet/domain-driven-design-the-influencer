@@ -10,7 +10,14 @@ Within this context, Domain Driven Design (DDD) plays a pivotal role. It acts as
 
 The DevOps movement has been quick to recognise the strategic value of DDD. Think of DDD as the architect who helps organise teams within an organisation. Teams, like streams of flowing water, need clear direction to work in harmony. DDD provides that direction by encouraging teams to align around value streams and bounded contexts. Just as a river's tributaries join to form a mighty flow, teams collaborate within their bounded contexts to deliver value efficiently.
 
+
+<p align="center">
+<img src="https://static.wikia.nocookie.net/b__/images/e/ea/Tributaries.png/revision/latest/scale-to-width-down/400?cb=20221214042107&path-prefix=bloons"/>
+ </p>
+ 
+ 
 In the realm of implementation, DDD empowers developers with tools like microservices and micro-frontends. Consider bounded contexts as self-contained neighborhoods, each with its own distinctive characteristics. Microservices act as small, autonomous buildings within these neighborhoods. They communicate with each other through well-defined interfaces, much like neighbors sharing a common wall. On the other hand, micro-frontends serve as the inviting facades of these buildings, presenting a seamless and unified experience to users, just as a street filled with aesthetically aligned storefronts enhances the overall appeal of a neighborhood.
+
 
 It's important to note that DDD extends its influence beyond microservices. Imagine a city skyline with towering skyscrapers—each skyscraper represents a monolithic application. DDD can help modularise these colossal structures, dividing them into distinct districts or bounded contexts. Just as districts within a city maintain their unique charm and purpose, these bounded contexts maintain their individuality, enabling better maintainability and scalability.
 
